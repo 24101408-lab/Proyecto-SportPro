@@ -1,4 +1,5 @@
 # Proyecto-SportPro
 ## Integrantes
 - Dereck Carrasco
-- Braulio Coz 
+- Braulio Coz
+- Manuel Saavedra
